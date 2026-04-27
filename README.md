@@ -1,4 +1,4 @@
-# bridge-illigaation
+# bridge-irrigation system
 # 🌱 Simple Irrigation System (Arduino)
 
 ## 📌 Project Overview
@@ -97,3 +97,4 @@ Computer Systems and Architecture (CSA)
 
 ## 📅 Date
 April 2026
+I have updated the irrigation system and added the lcd to display if the pump is low or high 
